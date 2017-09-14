@@ -1,14 +1,17 @@
 {
-  "{": {},
-  "\"file\":\"https://github.com/skappal7/Dataset/blob/master/Fraud%20Data.csv\",": {},
-  "\"name\":\"test\",": {},
-  "\"header\":0,": {},
-  "\"separator\":\",\",": {},
-  "\"skip\":0,": {},
-  "\"meta\":": {},
-  "{\"type\":\"id\",\"index\": 0, \"name\": \"Customer ID\"}": {},
-  ",": {},
-  "\"sets\":": {},
-  "{\"format\",\"binary\", \"start\":1, \"end\": 7}": {},
-  "}": {}
+  "file": "https://github.com/skappal7/Dataset/blob/master/Fraud%20Data.csv",
+"name": "test",
+"header": 0,
+"separator": ",",
+"skip": 0,
+"meta":
+
+      {"type": "id","index": 0, "name": "Customer ID"}
+],
+
+"sets":
+
+      {"format", "binary", "start":1, "end": 7}
+]
+
 }
