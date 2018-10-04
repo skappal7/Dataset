@@ -1,0 +1,11 @@
+;Unhappy;Annoyed;Complaints;Service_Issues;Not_Resolved;Confused
+Service_Problem;1;0;0;1;0;Resolved
+Product_Related;1;0;1;0;0;Annoyed
+Credit;1;0;1;0;0;Resolved
+Connection_Issue;1;1;0;1;1;Annoyed
+Billing;0;1;1;0;0;Resolved
+Competitor;1;1;1;0;1;Neutral
+Sensors;0;0;0;1;1;Resolved
+Alarms;0;0;0;1;1;Annoyed
+Low_Bat;0;0;0;1;1;Neutral
+System_Down;0;0;0;1;1;Resolved
